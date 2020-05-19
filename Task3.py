@@ -19,8 +19,8 @@
 # print('Ваше число: ', total)
 
 n = input('Введите число n: ')
-nn = int(n+n)
-nnn = int(n+n+n)
+nn = int(n + n)
+nnn = int(n + n + n)
 n = int(n)
-result = n+nn+nnn
+result = n + nn + nnn
 print(result)
